@@ -1,2 +1,2 @@
 # Luge
-Raise% teacher admin
+Raise% school admin

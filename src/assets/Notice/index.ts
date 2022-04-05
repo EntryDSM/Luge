@@ -1,0 +1,1 @@
+export {default as noticeIcon_img} from './writeicon.svg'
